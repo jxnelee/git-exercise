@@ -1,2 +1,3 @@
 random content
 second line
+next line
